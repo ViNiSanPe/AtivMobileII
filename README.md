@@ -1,50 +1,49 @@
-# Welcome to your Expo app 👋
+# ATIVIDADE 01 MOBILE II | PROFº AFONSO
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-## Get started
+## ALUNO: VINÍCIUS DOS SANTOS PEREIRA | 3ºDS
+### ETEC GUARULHOS - 2025
 
-1. Install dependencies
+## Descrição
+O start de um projeto Expo.
 
-   ```bash
-   npm install
-   ```
+## Pré-requisitos
+- Node.js (versão 18 ou superior)
+- npm ou Yarn
+- Expo CLI
 
-2. Start the app
-
-   ```bash
-    npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
+## Configuração do Ambiente
+1. Clone o repositório:
 ```bash
-npm run reset-project
+git clone https://github.com/ViNiSanPe/AtivMobileII01.git
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+2. Navegue até o diretório do projeto:
+```bash
+cd my-app
+```
 
-## Learn more
+3. Instale as dependências:
+```bash
+npm install
+# ou
+yarn install
+```
 
-To learn more about developing your project with Expo, look at the following resources:
+## Rodando o Projeto
+Para iniciar o projeto, execute:
+```bash
+npx expo start
+```
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+### Executando em diferentes dispositivos
+- Para Android: Pressione `a`
+- Para iOS: Pressione `i`
 
-## Join the community
+**Nota:** É necessário ter o Expo Go instalado no dispositivo móvel ou um emulador configurado.
 
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+## Dependências Principais
+- React Native
+- Expo
